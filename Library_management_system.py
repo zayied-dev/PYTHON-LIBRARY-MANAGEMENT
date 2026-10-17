@@ -143,6 +143,6 @@ while True:
         print("------------------------------")
     elif choice==8:
         break
-    else :
+    else:
         print("enter a valid choice")
 
